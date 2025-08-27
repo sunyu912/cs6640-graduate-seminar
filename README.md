@@ -40,9 +40,9 @@ By the end of the course, students will:
 
 ### **Phase 1: Foundations & Research (Weeks 1–6)**  
 - **Week 1:** Course introduction, topic selection, expectations, team formation (if applicable).  
-- **Week 2–5:** Independent research time (students explore topics, guided check-ins).  
+- **Week 2–5:** Independent research time (students explore topics, the state of the art on the topic, and the proposed work/solution).  
 
-### **Phase 2: Presentations of Research Topics (Weeks 7–9)**  
+### **Phase 2: Presentations of Research Topics (Weeks 6–8)**  
 - **Weeks 6–8:** Student presentations of research topics.  
   - Each student delivers a 15 minute seminar talk.  
   - Peer feedback and discussion follow each presentation.  
@@ -54,7 +54,7 @@ By the end of the course, students will:
 
 ### **Phase 4: Initial Results & Presentations (Weeks 13–15)**  
 - **Weeks 13–15:** Students present initial results of their builds.  
-  - Focus on methodology, early findings, and technical challenges.  
+  - Focus on live demo, methodology, early findings, and technical challenges.  
   - Peer feedback for improvements before final submission.  
 
 ### **Phase 5: Wrap-Up & Deliverables (Week 16)**  
